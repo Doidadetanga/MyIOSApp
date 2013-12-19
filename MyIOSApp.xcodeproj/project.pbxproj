@@ -202,6 +202,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Pedro Rodrigues";
 				TargetAttributes = {
+					34B4B490186343BA008118F4 = {
+						DevelopmentTeam = 5YD9D6HPS5;
+					};
 					34B4B4B4186343BA008118F4 = {
 						TestTargetID = 34B4B490186343BA008118F4;
 					};
@@ -392,6 +395,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyIOSApp/MyIOSApp-Prefix.pch";
 				INFOPLIST_FILE = "MyIOSApp/MyIOSApp-Info.plist";
@@ -405,6 +409,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyIOSApp/MyIOSApp-Prefix.pch";
 				INFOPLIST_FILE = "MyIOSApp/MyIOSApp-Info.plist";
@@ -474,6 +479,7 @@
 				34B4B4C8186343BA008118F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		34B4B4C9186343BA008118F4 /* Build configuration list for PBXNativeTarget "MyIOSAppTests" */ = {
 			isa = XCConfigurationList;
@@ -482,6 +488,7 @@
 				34B4B4CB186343BA008118F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
