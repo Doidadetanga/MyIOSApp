@@ -202,9 +202,6 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Pedro Rodrigues";
 				TargetAttributes = {
-					34B4B490186343BA008118F4 = {
-						DevelopmentTeam = 5YD9D6HPS5;
-					};
 					34B4B4B4186343BA008118F4 = {
 						TestTargetID = 34B4B490186343BA008118F4;
 					};
