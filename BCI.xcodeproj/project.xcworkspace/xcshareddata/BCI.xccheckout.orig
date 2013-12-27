@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
+	<string>C7ADE9BB-23D0-40BF-9AA0-D29CB3E3C2C7</string>
+=======
+	<string>71E57919-60DD-44EB-BC61-0F0F4254DD4A</string>
+>>>>>>> be83c44dcb276610dfc60ed19b21c0249329076b
+	<key>IDESourceControlProjectName</key>
+	<string>BCI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B3E1FB2-F167-42C1-92F4-94DB88428000</key>
+		<string>file://localhost/Users/git/bcirepo.git/</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BCI.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B3E1FB2-F167-42C1-92F4-94DB88428000</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>file://localhost/Users/git/bcirepo.git/</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5B3E1FB2-F167-42C1-92F4-94DB88428000</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B3E1FB2-F167-42C1-92F4-94DB88428000</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BCI</string>
+		</dict>
+	</array>
+</dict>
+</plist>

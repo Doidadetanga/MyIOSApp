@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[PosIntegradaDetailsViewController tableView:cellForRowAtIndexPath:]:PosIntegradaDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.accountDetails">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DebitCardsViewController prepareForSegue:sender:]:DebitCardsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PosIntegradaDetailsViewController numberOfSectionsInTableView:]:PosIntegradaDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.accountDetails.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PosIntegradaViewController loadActiveTabData]:PosIntegradaViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "assetsTotal">
+            </PersistentString>
+            <PersistentString
+               value = "self.integratedPositionOutput.assetsTotal.amountValueCurrency">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BCIData getRemoteCreditCardsListFromCardAccountNumber:success:serviceError:failure:]:BCIData.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cardAccountNumber">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__65-[BCIData getRemoteCardAccountsListSuccess:serviceError:failure:]_block_invoke:BCIData.m">
+      </ContextState>
+      <ContextState
+         contextName = "__55-[PosIntegradaViewController getIntegratedPositionData]_block_invoke:PosIntegradaViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.integratedPositionDetailsData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__63-[BCIData getRemoteDebitCardsListSuccess:serviceError:failure:]_block_invoke:BCIData.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "JSON">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapAnnotationDetailViewController tableView:heightForRowAtIndexPath:]:MapAnnotationDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__46-[PosIntegradaViewController getActiveTabData]_block_invoke:PosIntegradaViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.integratedPositionData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TermAccountDetailsViewController tableView:cellForRowAtIndexPath:]:TermAccountDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.termAccountDetails.baseCurrency">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapViewController tableView:didSelectRowAtIndexPath:]:MapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "annotation.title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CreditCardsViewController setCardDetails:]:CreditCardsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentCardData ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__43-[CreditCardsViewController getCreditCards]_block_invoke:CreditCardsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DebitCardMovementsViewController viewDidLoad]:DebitCardMovementsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.movementDetails.number">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
